@@ -1,0 +1,30 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.a46146.tourguideapp.BeiJingFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            style="@style/recycler_tv_style"
+            android:text="@string/scenery" />
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/recycler_scenery"
+            style="@style/recycler_style" />
+
+        <TextView
+            style="@style/recycler_tv_style"
+            android:text="@string/restaurant" />
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/recycler_restaurant"
+            style="@style/recycler_style" />
+    </LinearLayout>
+
+</FrameLayout>

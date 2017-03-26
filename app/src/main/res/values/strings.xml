@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">导游app</string>
+    <string name="title_tv_text">导游app</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="beiJing">北京</string>
+    <string name="shangHai">上海</string>
+    <string name="guiLin">桂林</string>
+    <string name="zhangJiaJie">张家界</string>
+    <string name="scenery">景点</string>
+    <string name="restaurant">餐馆</string>
+    <string name="tian_an_men">天安门</string>
+    <string name="chang_cheng">长城</string>
+    <string name="shui_li_fang">水立方</string>
+    <string name="niao_chao">鸟巢</string>
+    <string name="bei_jing_fan_dian">北京饭店</string>
+    <string name="li_jia_cai">厉家菜</string>
+    <string name="quan_ju_de">全聚德</string>
+    <string name="li_jiang">漓江</string>
+    <string name="yang_shuo">阳朔</string>
+    <string name="xiang_bi_shan">象鼻山</string>
+    <string name="le_man_di">乐满地</string>
+    <string name="hai_di_lao">海底捞</string>
+    <string name="gu_zao">古早味</string>
+    <string name="di_si_ni">迪斯尼</string>
+    <string name="dong_fang_ming_zhu">东方明珠</string>
+    <string name="shui_zu_guan">水族馆</string>
+    <string name="huan_le_gu">欢乐谷</string>
+    <string name="d_bar">D.Bar</string>
+    <string name="da_pai_dang">大牌档</string>
+    <string name="rong_xin_guan">荣新馆</string>
+    <string name="tian_men_shan">天门山</string>
+    <string name="bi_ling_yuan">碧岭园</string>
+    <string name="bo_li_qiao">玻璃桥</string>
+    <string name="lao_dao_wan">老道湾</string>
+    <string name="guo_tie">蔡记锅贴</string>
+    <string name="nai_cha">花公主奶茶</string>
+    <string name="xia_lv_di">夏绿地</string>
+</resources>

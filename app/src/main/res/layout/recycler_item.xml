@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:id="@+id/recycler_iv"
+        style="@style/recycler_iv_style" />
+
+    <TextView
+        android:id="@+id/recycler_tv"
+        style="@style/recycler_item_tv_style" />
+</LinearLayout>
